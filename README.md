@@ -24,4 +24,4 @@ I am looking for an internship or job opportunity to gain hand-on experience and
 
 ## Projects
 - TryHackMe Documentation [continuous...]
-- Keylogger [to be linked]
+- Keylogger (but abit more...) [to be linked]
