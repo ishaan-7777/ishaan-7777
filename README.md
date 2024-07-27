@@ -12,7 +12,6 @@ I am looking for an internship or job opportunity to gain hand-on experience and
 
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 
 #### Completed:
 <a href="https://www.credly.com/badges/0fc886a8-2fa3-4a8c-8794-11738ae470d0/linked_in_profile"><img src="https://img.shields.io/badge/Google%20Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=white" /> </a>
