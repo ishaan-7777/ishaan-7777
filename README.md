@@ -3,7 +3,7 @@
 <a href="https://linkedin.com/in/ishaan7777"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I'm Ishaan!
-Currently a Cybersecurity and Business Information Systems student, with a passion for solving problems and a skill set which is constantly developing.
+Currently, a Cybersecurity and Business Information Systems student, with a passion for solving problems and a skill set which is constantly developing.
 
 
 ## Objective
