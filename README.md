@@ -1,8 +1,10 @@
-## Hello, I'm Ishaan!
+## Welcome to my Digital Portfolio!
 
 <a href="https://linkedin.com/in/ishaan7777"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a Cybersecurity and Business Information Systems student, with a passion for solving problems and a skill set which is constantly developing.
+I'm Ishaan!
+Currently a Cybersecurity and Business Information Systems student, with a passion for solving problems and a skill set which is constantly developing.
+
 
 ## Objective
 
@@ -21,6 +23,7 @@ I am looking for an internship or job opportunity to gain hand-on experience and
 #### Next Up:
 <a href="https://www.comptia.org/certifications/security"> <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> </a>
 </div>
+
 
 ## Projects
 - TryHackMe Documentation [continuous...] <-- LINK COMING SOON
