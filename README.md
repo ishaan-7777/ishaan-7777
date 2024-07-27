@@ -27,3 +27,4 @@ I am looking for an internship or job opportunity to gain hand-on experience and
 ## Projects
 - TryHackMe Documentation [continuous...] <-- LINK COMING SOON
 - <a href="https://github.com/ishaan-7777/keylogger"> Keylogger (but abit more...) </a>
+- <a href="https://github.com/ishaan-7777/homelab"> Homelab </a>
