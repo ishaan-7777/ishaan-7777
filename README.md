@@ -17,7 +17,7 @@ I am looking for an internship or job opportunity to gain hand-on experience and
 <a href="https://www.credly.com/badges/0fc886a8-2fa3-4a8c-8794-11738ae470d0/linked_in_profile"><img src="https://img.shields.io/badge/Google%20Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=white" /> </a>
 
 ####  In Progress:
-<a href="https://www.comptia.org/certifications/network"> <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /> </a>
+<a href="https://www.comptia.org/certifications/network"> <img src="https://img.shields.io/badge/-Network%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> </a>
 
 #### Next Up:
 <a href="https://www.comptia.org/certifications/security"> <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> </a>
